@@ -1,7 +1,8 @@
-## Hi there, my name is Aditya 👋
+## Hi👋, Aditya here!
 
 
-## About Myself
+### About Myself
+I am a Junior Undergad at IIT Gandhinagar hailing from Thane, Maharashtra. I am pursuing my majors in Chemical Engineering with Minors in Computer Science Engineering. I am deeply passionate about programming lamguages and Mathematics. I am currently exploring the domain of Machinme Learning and NLP. I am open to work as a remote intern during my semester to gain experience in the indusrty.
 <!--
 **shadowemperor1510/shadowemperor1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tools & Technologies I use
+### Languages and Frameworks
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
