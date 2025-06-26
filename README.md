@@ -2,7 +2,7 @@
 
 
 ### About Myself
-I am a Senior Undergad at IIT Gandhinagar hailing from Thane, Maharashtra. I am pursuing my majors in Chemical Engineering with Minors in Computer Science Engineering. I am deeply passionate about programming languages and Mathematics. I am currently working in the domains of Machine Learning, Computer Vision and Data Analytics. I am open to work as a remote intern during my semester to gain experience in the indusrty.
+I have completed my undergraduate studies at the Indian Institute of Technology Gandhinagar (Class of 2025), hailing from Thane, Maharashtra. I have completed my majors in Chemical Engineering with Minors in Computer Science Engineering. I am deeply passionate about programming languages and Mathematics. I love working in the domains of Machine Learning, Data Science, Computer Vision and Data Analytics.
 <!--
 **shadowemperor1510/shadowemperor1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
